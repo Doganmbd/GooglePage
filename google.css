@@ -4,6 +4,10 @@ body {
   margin: 0px auto;
   padding: 0px;
 }
+html {
+  background: url(./images/appicon5.png) no-repeat center center fixed;
+  background-size: cover;
+}
 
 #icon {
   height: 30px;
@@ -198,9 +202,9 @@ body {
 footer {
   background-color: #f2f2f2;
   position: fixed;
-  bottom: 10px;
+  bottom: 0px;
   width: 100%;
-  height: 60px;
+  height: 70px;
 }
 
 footer h4 {
